@@ -1,0 +1,7 @@
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\bin\Debug\Bonus3.exe.config
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\bin\Debug\Bonus3.exe
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\bin\Debug\Bonus3.pdb
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\obj\Debug\Bonus3.csprojResolveAssemblyReference.cache
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\obj\Debug\Bonus3.csproj.CoreCompileInputs.cache
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\obj\Debug\Bonus3.exe
+C:\Users\TLO\Documents\C# bootcamp WORK\Bonus3\Bonus3\obj\Debug\Bonus3.pdb
